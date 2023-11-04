@@ -7,53 +7,53 @@ It takes a village. Something we hear often, but how would that look? Users comp
 
  Customizable profile
 
- -Change profile picture
+ - Change profile picture
 
- -Change username
+ - Change username
 
- -Add services offered
+ - Add services offered
 
- -delete services
+ - delete services
 
- -Location
+- Location
 
- -Bio/experience
+  - Bio/experience
 
-- Message inbox 
+ - Message inbox 
 
  Services offered feed
 
- -Location radius 
+ - Location radius 
 
- -Search for services
+ - Search for services
 
- -Search for users
+ - Search for users
 
  Create a post
 
- -Upload images
+ - Upload images
 
- -Location
+ - Location
 
- -Exchange prefrences
+ - Exchange prefrences
 
- -Desired dates/times
+ - Desired dates/times
 
  Notifications Feed
 
- -star Notification
+ - star Notification
 
- -Delete Notification
+ - Delete Notification
 
  Services Wanted
 
- -List of desired services
+ - List of desired services
 
  Reporting
 
- -Report user
- 
- -Rate & Review users services
+ - Report user
+
+ - Rate & Review users services
 
  # Installation
 
