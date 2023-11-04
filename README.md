@@ -17,7 +17,7 @@ It takes a village. Something we hear often, but how would that look? Users comp
 
 - Location
 
-  - Bio/experience
+ - Bio/experience
 
  - Message inbox 
 
