@@ -6,12 +6,19 @@ It takes a village. Something we hear often, but how would that look? Users comp
  # Features
 
  Customizable profile
+
  -Change profile picture
+
  -Change username
+
  -Add services offered
+
  -delete services
+
  -Location
+
  -Bio/experience
+ 
 - Message inbox 
 
  Services offered feed
