@@ -18,29 +18,41 @@ It takes a village. Something we hear often, but how would that look? Users comp
  -Location
 
  -Bio/experience
- 
+
 - Message inbox 
 
  Services offered feed
+
  -Location radius 
+
  -Search for services
+
  -Search for users
 
  Create a post
+
  -Upload images
+
  -Location
+
  -Exchange prefrences
+
  -Desired dates/times
 
  Notifications Feed
+
  -star Notification
+
  -Delete Notification
 
  Services Wanted
+
  -List of desired services
 
  Reporting
+
  -Report user
+ 
  -Rate & Review users services
 
  # Installation
