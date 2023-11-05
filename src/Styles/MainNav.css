@@ -1,0 +1,23 @@
+nav.main-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+ul.main-nav-list {
+    list-style: none;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: baseline;
+    justify-content: center;
+}
+
+li {
+    padding: 10px;
+}
