@@ -41,21 +41,21 @@ It takes a village. Something we hear often, but how would that look? Users comp
 
  Notifications Feed
 
- - star Notification
+- Star Notification
 
- - Delete Notification
+- Delete Notification
 
  Services Wanted
 
- - List of desired services
+- List of desired services
 
  Reporting
 
- - Report user
+- Report user
 
- - Rate & Review users services
+- Rate & Review users services
 
- # Installation
+# Installation
 
  1. Visit URL
 
